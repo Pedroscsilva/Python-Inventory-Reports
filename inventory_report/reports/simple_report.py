@@ -20,6 +20,3 @@ class SimpleReport:
             f"Data de validade mais próxima: {future_date}\n"
             f"Empresa com mais produtos: {most_common}"
         )
-        # f"""Data de fabricação mais antiga: {old_date}
-        # Data de validade mais próxima: {future_date}
-        # Empresa com mais produtos: {most_common}"""
