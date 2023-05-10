@@ -11,12 +11,12 @@ $ python3 -m venv .venv && source .venv/bin/activate
 
 2 - Install the project's dependencies
 ```bash
-python3 -m pip install -r dev-requirements.txt
+$ python3 -m pip install -r dev-requirements.txt
 ```
 
 3 - Install the own code as a PIP package
 ```bash
-pip install .
+$ pip install .
 ```
 
 4 - Execute the project through the CLI
